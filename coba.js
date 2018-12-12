@@ -5,3 +5,5 @@ function greet() {
 }
 
 greet();
+
+// pasti error
